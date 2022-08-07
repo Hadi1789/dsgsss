@@ -1,0 +1,206 @@
+    .sharet-lon {
+        /*
+        background: linear-gradient(90deg, rgba(7, 7, 89, 1) 0%, rgba(5, 5, 125, 1) 11%, rgba(27, 27, 138, 1) 47%, rgba(23, 45, 187, 1) 80%, rgba(1, 53, 255, 1) 100%);
+        
+        */
+        background-color: rgba(0, 0, 0, 0.859);
+        margin-bottom: 76px;
+    }
+    
+    a.active,
+    a:hover {
+        color: rgb(223, 217, 24);
+        padding-bottom: 6px;
+        border-bottom: 5px solid rgb(223, 217, 24);
+        transition: .35s;
+    }
+    
+    .white30 {
+        color: white;
+        margin: 5px 10px;
+        list-style: none;
+        text-decoration: none;
+        margin-top: 40px;
+        text-underline-offset: inherit;
+        font-size: 40px;
+        padding-left: 10px;
+        padding-right: 10px;
+        margin-left: 0px;
+        margin-right: 0px;
+        border-left: 4px solid black;
+    }
+    
+    .logo {
+        font-size: 40px;
+        color: rgb(235, 238, 37);
+        margin: 5px 10px;
+        margin-right: 50px;
+        font-family: serif
+    }
+    
+    .card2 {
+        background-color: rgb(6, 149, 101);
+        border: 3px solid rgb(5, 74, 63);
+        font-size: 30px;
+    }
+    
+    .b-img {
+        float: right;
+        margin-top: 70px;
+        margin-right: 90px;
+        margin-left: 50px;
+        margin-bottom: 60px;
+        border: 10px ridge black;
+        height: 300px;
+    }
+    
+    .summary-c {
+        background: linear-gradient(90deg, rgba(7, 7, 89, 1) 0%, rgba(5, 5, 125, 1) 11%, rgba(27, 27, 138, 1) 47%, rgba(23, 45, 187, 1) 80%, rgba(1, 53, 255, 1) 100%);
+        padding-bottom: 30px;
+        border-bottom: 10px solid black;
+    }
+    
+    .summary-t {
+        color: rgb(217, 255, 0);
+        font-size: 50px;
+        margin-left: 40px;
+    }
+    
+    .summary-p {
+        color: antiquewhite;
+        font-size: 35px;
+        text-align: left;
+        margin-left: 20px;
+    }
+    
+    .e-t {
+        text-align: center;
+        color: rgb(217, 255, 0);
+        font-weight: 600;
+        font-size: 70px;
+        font-family: Verdana;
+        text-decoration: underline;
+    }
+    
+    .e-p {
+        color: azure;
+        font-size: 35px;
+        margin-left: 30px;
+        display: inline;
+    }
+    
+    .e-c {
+        background: linear-gradient(90deg, rgba(7, 7, 89, 1) 0%, rgba(5, 5, 125, 1) 11%, rgba(27, 27, 138, 1) 47%, rgba(23, 45, 187, 1) 80%, rgba(1, 53, 255, 1) 100%);
+        padding-bottom: 20px;
+        border-bottom: 10px solid black;
+        margin-bottom: 0px;
+    }
+    
+    .e-h {
+        color: azure;
+        font-size: 40px;
+        margin-left: 60px;
+    }
+    
+    .e-i {
+        height: 250px;
+        float: right;
+        margin-left: 0px;
+        margin-top: 90px;
+    }
+    
+    .skil {
+        font-size: 50px;
+        color: rgb(140, 231, 13);
+        text-decoration: underline;
+        margin-left: 30px;
+    }
+    
+    .skills {
+        font-size: 35px;
+        color: white;
+        margin-left: 150px;
+    }
+    
+    .shahadat {
+        font-size: 40px;
+        color: white;
+        margin-left: 50px;
+    }
+    
+    .hob {
+        color: white;
+        font-size: 45px;
+        margin-bottom: 20px;
+        margin-left: 40px;
+    }
+    
+    .info-k {
+        color: white;
+        font-size: 40px;
+        margin-bottom: 20px;
+        margin-right: 70px;
+        margin-left: 0px;
+        display: inline;
+    }
+    
+    .info-v {
+        display: inline;
+    }
+    
+    .au {
+        font-weight: 500;
+        color: rgb(217, 255, 0);
+        margin-left: 75px;
+        margin-top: 0px;
+        font-size: 60px;
+        text-decoration: underline;
+    }
+    
+    .text {
+        color: azure;
+        font-size: 35px;
+        text-align: right;
+        display: inline;
+    }
+    
+    .sh {
+        padding-left: 20px;
+        margin-bottom: 30px;
+    }
+    
+    .j-d {
+        display: inline;
+        color: rgb(217, 255, 0);
+        margin-right: 150px;
+    }
+    
+    .j-p {
+        display: inline;
+        color: rgb(217, 255, 0);
+        margin-right: 93px;
+    }
+    
+    .j-e {
+        display: inline;
+        color: rgb(217, 255, 0);
+        margin-right: 70px;
+    }
+    
+    .j {
+        display: inline;
+        color: white;
+        font-size: 40px;
+    }
+    
+    span {
+        color: rgb(217, 255, 0);
+        font-size: 37px;
+        margin-right: 30px;
+    }
+    
+    .bord {
+        border: 5px solid black;
+        padding: 15px;
+        margin-right: 40px;
+    }
